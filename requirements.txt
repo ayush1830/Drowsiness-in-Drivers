@@ -1,0 +1,12 @@
+﻿The following libraries need to be installed
+numpy
+math
+dlib
+opencv
+scipy
+pygame
+tensorflow
+wget
+
+
+And yolo3.weights can be downloaded from https://pjreddie.com/media/files/yolov3.weights
